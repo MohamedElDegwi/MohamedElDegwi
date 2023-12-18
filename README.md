@@ -1,16 +1,20 @@
 ## 👨‍💻 Mohamed ElDegwi | Aspiring Full Stack Software Engineer
 
-Greetings, fellow developers! I'm Mohamed ElDegwi, a forward-thinking engineering enthusiast, currently immersed in the pursuit of a Bachelor's degree in Communication and Computer Engineering.
+Greetings, fellow developers! I'm Mohamed ElDegwi, a forward-thinking engineering enthusiast, currently immersed in the pursuit of a Bachelor's degree in Communication and Computer Engineering. Passionate and have keen interest in all aspects of software development, particularly intrigued by the art of backend engineering. Committed to continuous learning and expanding my skillset to contribute to the creation of innovative and impactful software solutions.
 
 ### 🚀 Technical Expertise:
-- **Languages:** C++, structured programming, and object-oriented programming.
-- **Engineering Fundamentals:**  algorithms, and data structures.
+- **Languages:** C++
+- **Engineering Fundamentals:**  algorithms, data structures, Structured Programming, Object-Oriented Programming, and Problem Solving.
 
 ### 🎓 Education:
-- **Bachelor's in Communication and Computer Engineering (In Progress)**
+- **Benha University - Faculty of Engineering at Shoubra, Cairo, Egypt**
+  - *Bachelor of Engineering – Computer Engineering (Oct 2020 - May 2026)*
+  - Currently in 2nd year / 4 (1st Prep. year does not count).
+  - **GPA:** 3.1/4
 
 ### 🌐 McKinsey & Company's Forward Program Graduate:
-- Delved into advanced problem-solving methodologies.
+- Delved into problem-solving methodologies.
+- ability to communicate for impact.
 - Cultivated adaptability and resilience crucial in dynamic workplace environments.
 
 ### 🛠️ Upcoming Learning Goals:
