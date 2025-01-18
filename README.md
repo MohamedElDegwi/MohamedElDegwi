@@ -5,7 +5,7 @@ Greetings, fellow developers! I'm Mohamed ElDegwi, a forward-thinking engineerin
 ### 🚀 Technical Expertise:
 - **Languages:** C++, C#
 - **Frameworks:** .NET FrameWork
-- **Databases: **MySQL
+- **Databases:** MySQL
 - **Engineering Fundamentals:**  algorithms, data structures, Structured Programming, Object-Oriented Programming, and Problem Solving.
 
 ### 🎓 Education:
