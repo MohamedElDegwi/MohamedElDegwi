@@ -30,4 +30,4 @@ Actively seeking a software Opportunities.
 I'm passionate about creating innovative solutions and collaborating with like-minded professionals. If you share a similar zeal for technology and continuous improvement, let's connect! Reach out for discussions on software engineering, emerging technologies, or potential collaboration opportunities.
 
 ### 📬 Contact Information:
-- [LinkedIn](https://www.linkedin.com/in/mohammed-el-degwi-086b3729a) | [Email](MohammedEldegwi@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mohamedeldegwi/) | [Email](MohammedEldegwi@gmail.com)
